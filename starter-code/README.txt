@@ -49,6 +49,18 @@ Estimate of time needed to complete: 20 minutes
 
 Start time: 9:20
 
-Finish time: _____
+Finish time: 10:32
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1:12
+
+
+
+Number and name of feature: Modify the contents
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 10:40
+
+Finish time: 
+
+Actual time needed to complete: 
