@@ -45,8 +45,13 @@
       color: rgb(250, 165, 8);
     }
     video {
-      
+      z-index: -1;
+      position: absolute;
+      width: 100%;
+      top: 0;
+      left: 0;
     }
+    
 
 /* portfolio */
   #main > section.two {
