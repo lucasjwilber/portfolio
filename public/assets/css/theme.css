@@ -1,0 +1,126 @@
+/* coffee colors (from darkest to lightest):
+  #3D1C00
+  #854612
+  #BA743A
+  #ECA870
+  #FFD2AD 
+  */
+
+/* nav/sidebar */
+  #header {
+    background-color: #3D1C00;
+  }
+
+    #logo h1,
+    #logo p,
+    .icon,
+    #nav ul li a.active span:before {
+      color: #FFD2AD;
+    }
+    #nav ul li a span:before {
+      color: #BA743A;
+    }
+
+    .image.avatar48 img {
+      border: 1px solid #FFD2AD;
+    }
+
+    #header .icons a {
+      color: #BA743A;
+    }
+      
+      #header .icons a:hover {
+        color: #FFD2AD;
+      }
+  
+/* intro */
+  #main > section.one {
+    /* background-image: url("../../images/coffeeGif3.gif"); */
+    color: #FFD2AD;
+  }
+    #main > section.one header h2 strong {
+      color: rgb(250, 165, 8);
+    }
+    #main > section.one header strong {
+      color: rgb(250, 165, 8);
+    }
+    video {
+      
+    }
+
+/* portfolio */
+  #main > section.two {
+    background-image: linear-gradient( #854612, #BA743A);
+  }
+
+  .two h2 {
+    font-family: 'Fredoka One', cursive;
+    color: #FFD2AD;
+  }
+  .two p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #FFD2AD;
+  }
+  .item header {
+    background-color: #FFD2AD;
+  }
+  .item a {
+    color: #3D1C00;
+  }
+
+
+/* about me */
+  #main > section.three {
+    background-image: linear-gradient( #BA743A, #ECA870);
+  }
+
+    .three h2, .three p {
+      color: #3D1C00;
+    }
+
+/* contact */
+  #main > section.four {
+    color: #3D1C00;
+    background-image: linear-gradient( #ECA870, #BA743A);
+  }
+
+    #contact h2 {
+      color: #3D1C00;
+    }
+
+/* footer */
+  #footer {
+    background-color: #3D1C00;
+    color: #FFD2AD;
+  }
+
+/* buttons */
+  .button,
+  input[value="Send Message"] {
+    color: #FFD2AD !important;
+  }
+
+  input[type="button"],
+  input[type="submit"],
+  input[type="reset"],
+  button,
+  .button {
+    background-color: #854612;
+  }
+
+  input[type="button"]:hover,
+  input[type="submit"]:hover,
+  input[type="reset"]:hover,
+  button:hover,
+  .button:hover {
+    background-color: #996236;
+  }
+
+  input[type="button"]:active,
+  input[type="submit"]:active,
+  input[type="reset"]:active,
+  button:active,
+  .button:active {
+    background-color: #996236;
+  }
