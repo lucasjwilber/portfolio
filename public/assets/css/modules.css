@@ -870,11 +870,19 @@ button,
 
 }
 
+@media screen and (min-width: 961px) {
+  #top {
+    height: 500px;
+  }
+}
 
-/* nav for mobile displays: */
+/* nav bar for tablet displays: */
 @media screen and (max-width: 960px) {
   #mobile-gap {
     height: 100px;
+  }
+  body {
+    background-color: #3D1C00;
   }
   #header {
     position: fixed;
@@ -884,11 +892,11 @@ button,
     height: 100px;
     overflow: hidden;
   }
-  span.image.avatar48 {
-    grid-column-start: 3;
-    grid-column-end: 4;
+  video {
+    height: 100%;
+    top: 0;
   }
-
 }
+
 
 
