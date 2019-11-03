@@ -876,7 +876,7 @@ button,
   }
 }
 
-/* nav bar for tablet displays: */
+/* WIP - nav bar for tablet displays: */
 @media screen and (max-width: 960px) {
   #mobile-gap {
     height: 100px;
@@ -886,9 +886,6 @@ button,
   }
   #header {
     position: fixed;
-    /* display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    width: calc(275px + 100%); */
     transform: none;
     width: 100%;
     height: 100px;
@@ -897,10 +894,8 @@ button,
   #title, #logo {
     width: 10em;
   }
-  #nav, li, a, ul {
-    float: right;
-    height: 5em;
-    display: block;
+  #nav a.icon {
+  
   }
   video {
     height: 100%;
