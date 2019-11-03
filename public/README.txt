@@ -29,10 +29,9 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 Credits:
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
+	Videos/Images:
 		Unsplash (unsplash.com)
-		F-15 picture: Photo by Flynn Doherty on Unsplash
+		Pixabay (pixabay.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
@@ -59,12 +58,27 @@ Actual time needed to complete: 1:12
 
 
 
-Number and name of feature: Modify the contents
+Number and name of feature: Add a video
 
 Estimate of time needed to complete: 1 hour
 
 Start time: 10:40
 
-Finish time: Sunday...
+Finish time: Sunday
 
-Actual time needed to complete: In total I spent about 6 hours on this part.	
+Actual time needed to complete: In total probably 3-4 hours. Thought I had a CSS or syntax problem, just had the source pathing wrong :\
+
+
+
+Number and name of feature: Add a fixed menu for mobile/tablet view
+
+Estimate of time needed to complete: 80 minutes
+
+Start time: 1:00
+
+Finish time: WIP
+
+Actual time needed to complete: 
+
+
+
